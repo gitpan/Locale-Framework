@@ -6,7 +6,7 @@ use warnings;
 
 use Locale::Framework::Dumb;
 
-our $VERSION = '0.05';
+our $VERSION = '0.06';
 
 require Exporter;
 use base qw(Exporter);

@@ -5,7 +5,7 @@ use ExtUtils::MakeMaker;
 WriteMakefile(
     'NAME'		=> 'Locale::Framework',
     'VERSION_FROM'	=> 'lib/Locale/Framework.pm', # finds $VERSION
-    'PREREQ_PM'		=> { DBI => 1.3, Wx => 0.18 }, 
+    'PREREQ_PM'		=> { }, 
     'ABSTRACT_FROM'     => 'lib/Locale/Framework.pm', # retrieve abstract from module
     'AUTHOR'            => 'Hans Oesterholt-Dijkema <oesterhol@cpan.org>',
 );
