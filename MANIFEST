@@ -1,0 +1,13 @@
+Changes
+lib/Locale/Framework.pm
+lib/Locale/Framework/SQL.pm
+lib/Locale/Framework/Dumb.pm
+lib/Locale/Framework/wxLocale.pm
+locale/nl_NL/default.po
+locale/nl_NL/default.mo
+Makefile.PL
+MANIFEST
+README
+t/1.t
+t/2.t
+t/3.t
